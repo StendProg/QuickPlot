@@ -31,4 +31,4 @@ steps:
   inputs:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
-    pathtoCustomTestAdapters: 'src\QuickPlot.Tests.NUnitTests\bin\Release\netcoreapp3.0\NUnit3.TestAdapter.dll'
+    pathtoCustomTestAdapters: 'src\QuickPlot.Tests.NUnitTests\bin\Release\netcoreapp3.0\'
